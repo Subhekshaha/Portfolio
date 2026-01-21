@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Menu, X, Mail, FileDown } from 'lucide-react';
 import profileImage from "../../assets/final.png"
-import logo from "../../assets/signature.png"
+import logo from "../../assets/Signature.png"
 
 const NavBar = () => {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
